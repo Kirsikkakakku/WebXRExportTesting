@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   VRRequiredReferenceSpace: 2
   VROptionalFeatures: 2
-  ARRequiredReferenceSpace: 2
+  ARRequiredReferenceSpace: 4
   AROptionalFeatures: -1
